@@ -5,7 +5,7 @@ cljs-polys-etc
 Mostly this is for working with polybooljs in ClojureScript. Also provided are
 some extra functions that I found useful while creating SVGs.
 
-https://raw.githubusercontent.com/robbieh/cljs-polys-etc/main/doc/API.md[API documentation]
+https://github.com/robbieh/cljs-polys-etc/blob/main/doc/API.md[API documentation]
 
 ### maturity warning
 
