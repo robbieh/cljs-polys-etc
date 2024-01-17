@@ -30,10 +30,9 @@ lein / shadow-cljs:
 
 deps.edn:
 ```
-{:deps {net.nundrum/clls-polys-etc {:mvn/version "0.0.1"}}
+{:deps {net.nundrum/cljs-polys-etc {:mvn/version "0.0.1"}}
  ...}
 ```
-
 
 polybooljs
 ----------
